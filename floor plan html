@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Floor Plan</title>
+</head>
+<body>
+    <h2>My Floor Plan</h2>
+    <img src="file:///C:/Users/PC/PythonScriptWrapper_bc345651-d7a6-46f6-a70b-c269afab73e8/floorplan_map.html:" alt="Floor Plan" width="100%">
+</body>
+</html>
